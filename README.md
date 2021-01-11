@@ -1,6 +1,6 @@
 # Police-Shootings-Analysis
 
-This is my group project for Probabilistic Methods in Engineering course at Shanghai Jiao Tong University. We investigate the pattern of the occurrence of fatal police shootings in the US between 2015 and 2020 using data from the Database of Fatal Police Shootings. For more details, please refer to the project description and report.
+This is one of my group project for Probabilistic Methods in Engineering course at Shanghai Jiao Tong University. We investigate the pattern of the occurrence of fatal police shootings in the US between 2015 and 2020 using data from the Database of Fatal Police Shootings. For more details, please refer to the project description and report.
 
 ## About Honor Code
 If there are same questions or projects in the future, it is the responsibility of JI students not to copy or modify these codes, or TeX files because it is against the Honor Code. The owner of this repository dosen't take any commitment for other's faults.
